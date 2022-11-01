@@ -2,10 +2,10 @@
 
 ## Contents 📗
 
-- Day 1: Hashing
-- Day 2: Hashing
-- Day 3: Sorting
-- Day 4: Sorting
+- Day 1: Hashing  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Hash.png?20060514234701" width=12/>
+- Day 2: Hashing  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Hash.png?20060514234701" width=12/>
+- Day 3: Sorting  <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/filter_and_sort.png" width=12/>
+- Day 4: Sorting  <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/filter_and_sort.png" width=12/>
 - Day 5: Strings
 - Day 6: Strings
 - Day 7: Binary Search
